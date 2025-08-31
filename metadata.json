@@ -1,0 +1,5 @@
+{
+  "name": "Personal AI Job Agent",
+  "description": "An AI-powered dashboard to automate your job search. It helps find jobs, tailors your resume and cover letter using Gemini, and tracks your applications, streamlining the entire process.",
+  "requestFramePermissions": []
+}
